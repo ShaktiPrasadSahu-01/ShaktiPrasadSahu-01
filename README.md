@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shakti</h1>
-<h3 align="center">An IT enthsiast from India</h3>
+<h3 align="center">An IT enthusiast from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.BrIPRle45dInB0cJ9uc7eAHaFj%26pid%3DApi&f=1&ipt=30efd39e2d4b449eb8d4e810cb260f27a8f112ecf69a7b624bc54b31650ec182&ipo=images">
 
