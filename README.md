@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaktiprasadsahu-01&label=Profile%20views&color=0e75b6&style=flat" alt="shaktiprasadsahu-01" /> </p>
 
-- 💬 Ask me about **🔒Secure Software Development 💻Malware 🕵️‍♂️Digital Forensics 🛡️Defensive Security 📊SIEM (Security Information and Event Management)**
+- 💬 Ask me about **🔒Secure Software Development, 💻Malware, 🕵️‍♂️Digital Forensics, 🛡️Defensive Security, 📊SIEM (Security Information and Event Management)**
 
 - ⚡ Fun fact **I am crazy 😅**
 
