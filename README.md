@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=shaktiprasadsahu-01&label=Profile%20views&color=0e75b6&style=flat" alt="shaktiprasadsahu-01" /> 
 </p>
 
-<h3 style="font-size: 1.7em; margin-top: 2rem;">💬 Ask me about</h3>
+<h3 style="font-size: 1.7em; margin-top: 2rem;">💬 Ask me about:</h3>
 <ul style="font-size: 1.3em; line-height: 1.6;">
   <li>🔒 Secure Software Development</li>
   <li>💻 Malware</li>
@@ -16,9 +16,13 @@
   <li>📊 SIEM (Security Information and Event Management)</li>
 </ul>
 
-<p style="font-size: 1.7em; font-weight: 700; margin-top: 2rem;">⚡ Fun fact: I am crazy 😅</p>
+<h3 style="font-size: 1.7em; margin-top: 2rem;">⚡ Fun fact:</h3>
+<ul style="font-size: 1.3em; line-height: 1.6;">
+  <li> I am crazy 😅</li>
+</ul>
 
-<h3 style="font-size: 1.7em; margin-top: 2rem;">Connect with me:</h3>
+<h3 style="font-size: 1.7em; margin-top: 2rem;"> Connect with me:</h3>
+<h3 style="font-size: 1.7em; margin-top: 2rem;">⚙️ Languages and Tools:</h3>
 <p style="font-size: 1.3em;">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> 
