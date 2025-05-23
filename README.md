@@ -2,28 +2,30 @@
 <h3 align="center">An IT Enthusiast from India</h3>
 
 <p align="center">
-  <img src="https://c.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" alt="hacking gif" width="400" />
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=shaktiprasadsahu-01&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
-## ❓ Ask Me About
-
-- 🔒 Secure Software Development  
-- 💻 Malware  
-- 🕵️‍♂️ Digital Forensics  
-- 🛡️ Defensive Security  
-- 📊 SIEM (Security Information and Event Management)
-
----
-
-## ⚡ Fun Fact
-
-I am crazy 😅
+<table width="100%">
+  <tr>
+    <td width="45%" valign="top">
+      <h2>❓ Ask Me About</h2>
+      <ul>
+        <li>🔒 Secure Software Development</li>
+        <li>💻 Malware</li>
+        <li>🕵️‍♂️ Digital Forensics</li>
+        <li>🛡️ Defensive Security</li>
+        <li>📊 SIEM (Security Information and Event Management)</li>
+      </ul>
+      <h2>⚡ Fun Fact</h2>
+      <p>I am crazy 😅</p>
+    </td>
+    <td width="55%" align="center" valign="middle">
+      <img src="https://c.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" alt="hacking gif" width="400" />
+    </td>
+  </tr>
+</table>
 
 ---
 
