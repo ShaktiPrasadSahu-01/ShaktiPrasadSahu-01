@@ -43,7 +43,7 @@
   <li> I am crazy 😅</li>
 </ul>
 
-<h3 style="font-size: 1.7em; margin-top: 2rem;">🔗 Connect with me:</h3>
+<!-- <h3 style="font-size: 1.7em; margin-top: 2rem;">🔗 Connect with me:</h3> -->
 <h3 style="font-size: 1.7em; margin-top: 2rem;">⚙️ Languages and Tools:</h3>
 <p style="font-size: 1.3em;">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
@@ -86,8 +86,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> 
   </a> 
 </p>
-
-<br/>
 
 ## 📊 GitHub Stats
 
