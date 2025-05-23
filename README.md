@@ -21,7 +21,7 @@
   <li> I am crazy 😅</li>
 </ul>
 
-<h3 style="font-size: 1.7em; margin-top: 2rem;"> Connect with me:</h3>
+<h3 style="font-size: 1.7em; margin-top: 2rem;">🔗 Connect with me:</h3>
 <h3 style="font-size: 1.7em; margin-top: 2rem;">⚙️ Languages and Tools:</h3>
 <p style="font-size: 1.3em;">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
@@ -69,11 +69,27 @@
 
 ## 📊 GitHub Stats
 
-<div style="display: flex; justify-content: center; gap: 2rem; flex-wrap: wrap; max-width: 1000px; margin: 0 auto;">
-  <img src="https://github-readme-stats.vercel.app/api?username=shaktiprasadsahu-01&show_icons=true&theme=tokyonight&hide_border=true&width=450" alt="GitHub Stats" style="flex: 1 1 45%; max-width: 450px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaktiprasadsahu-01&layout=compact&theme=tokyonight&hide_border=true&width=450" alt="Top Languages" style="flex: 1 1 45%; max-width: 450px;"/>
+<!-- Container to center and limit overall width -->
+<div style="max-width: 960px; margin: 0 auto;">
+
+  <!-- Top row: GitHub Stats and Top Languages side by side -->
+  <div style="display: flex; justify-content: center; gap: 2rem; margin-bottom: 2rem;">
+    <img src="https://github-readme-stats.vercel.app/api?username=shaktiprasadsahu-01&show_icons=true&theme=tokyonight&hide_border=true&width=450"
+         alt="GitHub Stats"
+         style="width: 450px; max-width: 100%;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaktiprasadsahu-01&layout=compact&theme=tokyonight&hide_border=true&width=450"
+         alt="Top Languages"
+         style="width: 450px; max-width: 100%;" />
+  </div>
+
+  <!-- Bottom row: GitHub Streak centered below -->
+  <div style="text-align: center;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaktiprasadsahu-01&theme=tokyonight&hide_border=true&stroke=fff&background=0d1117"
+         alt="GitHub Streak"
+         style="width: 500px; max-width: 100%;" />
+  </div>
+
 </div>
 
-<div style="max-width: 450px; margin: 2rem auto 0; text-align: center;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaktiprasadsahu-01&theme=tokyonight&hide_border=true&stroke=fff&background=0d1117" alt="GitHub Streak" width="100%"/>
-</div>
+
+
