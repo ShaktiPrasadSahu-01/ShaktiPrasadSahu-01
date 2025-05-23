@@ -16,7 +16,7 @@
   <li>📊 SIEM (Security Information and Event Management)</li>
 </ul>
 
-<p style="font-size: 1.5em; font-weight: 700; margin-top: 2rem;">⚡ Fun fact: I am crazy 😅</p>
+<p style="font-size: 1.7em; font-weight: 700; margin-top: 2rem;">⚡ Fun fact: I am crazy 😅</p>
 
 <h3 style="font-size: 1.7em; margin-top: 2rem;">Connect with me:</h3>
 <p style="font-size: 1.3em;">
