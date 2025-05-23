@@ -7,23 +7,14 @@
   <img src="https://komarev.com/ghpvc/?username=shaktiprasadsahu-01&label=Profile%20views&color=0e75b6&style=flat" alt="shaktiprasadsahu-01" /> 
 </p>
 
-<table>
-  <tr>
-    <td width="60" valign="top">
-      <img alt="hacker animation" width="60" src="https://c.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" />
-    </td>
-    <td valign="top" style="padding-left: 10px;">
-      <h3>💬 Ask me about</h3>
-      <ul>
-        <li>🔒 Secure Software Development</li>
-        <li>💻 Malware</li>
-        <li>🕵️‍♂️ Digital Forensics</li>
-        <li>🛡️ Defensive Security</li>
-        <li>📊 SIEM (Security Information and Event Management)</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<h3>💬 Ask me about</h3>
+<ul>
+  <li>🔒 Secure Software Development</li>
+  <li>💻 Malware</li>
+  <li>🕵️‍♂️ Digital Forensics</li>
+  <li>🛡️ Defensive Security</li>
+  <li>📊 SIEM (Security Information and Event Management)</li>
+</ul>
 
 <p>⚡ Fun fact: <strong>I am crazy 😅</strong></p>
 
@@ -74,16 +65,13 @@
 
 ## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=shaktiprasadsahu-01&show_icons=true&theme=tokyonight&hide_border=true&width=480" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaktiprasadsahu-01&layout=compact&theme=tokyonight&hide_border=true&width=400" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shaktiprasadsahu-01&show_icons=true&theme=tokyonight&hide_border=true&width=480" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaktiprasadsahu-01&layout=compact&theme=tokyonight&hide_border=true&width=400" alt="Top Languages" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaktiprasadsahu-01&theme=tokyonight&hide_border=true&stroke=fff&background=0d1117" alt="GitHub Streak" width="900"/>
