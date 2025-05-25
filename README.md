@@ -89,27 +89,27 @@
 
 ## 📊 GitHub Stats
 
-<!-- Container to center and limit overall width -->
 <div style="max-width: 960px; margin: 0 auto;">
 
   <!-- Top row: GitHub Stats and Top Languages side by side -->
   <div style="display: flex; justify-content: center; gap: 2rem; margin-bottom: 2rem;">
-    <img src="https://github-readme-stats.vercel.app/api?username=shaktiprasadsahu-01&show_icons=true&theme=tokyonight&hide_border=true&width=450"
+    <img src="https://github-readme-stats.vercel.app/api?username=shaktiprasadsahu-01&show_icons=true&theme=tokyonight&hide_border=true&cache_bust=1"
          alt="GitHub Stats"
          style="width: 450px; max-width: 100%;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaktiprasadsahu-01&layout=compact&theme=tokyonight&hide_border=true&width=450"
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaktiprasadsahu-01&layout=compact&theme=tokyonight&hide_border=true&cache_bust=1"
          alt="Top Languages"
          style="width: 450px; max-width: 100%;" />
   </div>
 
   <!-- Bottom row: GitHub Streak centered below -->
   <div style="text-align: center;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaktiprasadsahu-01&theme=tokyonight&hide_border=true&stroke=fff&background=0d1117"
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaktiprasadsahu-01&theme=tokyonight&hide_border=true&stroke=fff&background=0d1117&cache_bust=1"
          alt="GitHub Streak"
          style="width: 500px; max-width: 100%;" />
   </div>
 
 </div>
+
 
 
 
