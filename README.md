@@ -95,7 +95,7 @@
 
   <!-- Bottom row: GitHub Streak centered below -->
   <div style="text-align: center;">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=ShaktiPrasadSahu-01&theme=dracula"
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=ShaktiPrasadSahu-01&theme=tokyonight-duo&hide_border=true"
          alt="GitHub Streak"
          style="width: 500px; max-width: 100%;" />
   </div>
